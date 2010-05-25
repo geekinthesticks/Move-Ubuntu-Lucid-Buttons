@@ -23,7 +23,7 @@ except:
     print  'You need to install the python bindings for gconf'
     sys.exit(1)
 
-LUCID = "menu,maximize,minimize,close:"
+LUCID = "maximize,minimize,close:"
 RHS = "menu:minimize,maximize,close"
 
 
